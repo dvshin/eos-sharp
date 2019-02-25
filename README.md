@@ -9,7 +9,7 @@ Install-Package eos-sharp
 
 Visual Studio 2017+
 
-### Instalation
+### Installation
 eos-sharp is now available through nuget https://www.nuget.org/packages/eos-sharp
 
 ```
